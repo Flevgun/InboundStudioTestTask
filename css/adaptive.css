@@ -1,0 +1,32 @@
+/*==========  Desktop First  ========== */
+/* Large Devices, Wide Screens */
+#header .container .heading {
+  font-size: 62px; }
+
+/* Medium Devices, Desktops */
+#header .container .heading {
+  font-size: 54px; }
+
+/* Small Devices, Tablets */
+#header .container .heading {
+  font-size: 46px;
+  font-weight: 700; }
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 480px) {
+  /* */ }
+/* Custom, iPhone Retina */
+@media only screen and (max-width: 320px) {
+  /* */ }
+/*==========  Mobile First  ========== */
+/* Custom, iPhone Retina */
+@media only screen and (min-width: 320px) {
+  /* */ }
+/* Extra Small Devices, Phones */
+@media only screen and (min-width: 480px) {
+  /* */ }
+/* Small Devices, Tablets */
+/* Medium Devices, Desktops */
+/* Large Devices, Wide Screens */
+
+/*# sourceMappingURL=adaptive.css.map */

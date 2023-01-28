@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";;AAQE,2BAAQ;EACP,SAAS,EAAE,IAAI;;;AAmChB,2BAAQ;EACP,SAAS,EAAE,IAAI;;;AAyChB,2BAAQ;EACP,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;;;AAUnB,yCAA0C;;;AAI1C,yCAA0C;;;;AAM1C,yCAA0C;;;AAI1C,yCAA0C",
+"sources": ["../sass/adaptive.sass"],
+"names": [],
+"file": "adaptive.css"
+}
